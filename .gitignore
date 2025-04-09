@@ -1,0 +1,25 @@
+# helper files
+
+script.sh
+tex_template.txt
+help_octave.txt
+test*
+
+demos/*
+
+# Files, produced by LaTeX
+
+*.aux
+*.bbl
+*.blg
+*.log
+*.toc
+*.lof
+*.lot
+*.fls
+*.out
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
